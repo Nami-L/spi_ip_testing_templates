@@ -1,1 +1,0 @@
-# spi_ip_testing_templates
